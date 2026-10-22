@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUViszOWpEWTNJRGJPV085UjFFZmcyWEZ6Nzh3RUhLSTNPdWxQMExvQ2FCcWQweTg0STNhNTdWM1JicTltNzkzamxpTTVGR2lMVHdxeXJUdEJhdWhodDgzOFQ5TjE5aUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc3NDg3CWZpbGU6UHJlbm90YXppb25pIFZpZXdlcl8wLjEuOF94NjQtc2V0dXAuZXhlCmFrSGRWK00wNWRZYmRIYzZLOUZMY3dRaFBXUmJuZ29rREVlZkNvTElSZGR1Z3FTeWk2em5mM1l1Z25weWZvTncyZysyY2FtbTBuTm5PMWR5b2pabUNRPT0K",
-                                             "url":  "https://github.com/PaoloViero/prenotazioni-viewer-releases/releases/download/v0.1.8/Prenotazioni.Viewer_0.1.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUViszOWpEWTNJRGI2N0pvbU9zMzBhakJLdU1mVFFiVk5UNGNieWE0VENhRE0wRERwNXV2VG93b3Y4czVldE1CalZpZlFWVlZmMlJmYWVBTlJSaEIzdVEvYkZLN0pWQ2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgxOTg4CWZpbGU6UHJlbm90YXppb25pIFZpZXdlcl8wLjEuOV94NjQtc2V0dXAuZXhlCjhOMzJyakxuWkNpTHdxbm5vcFd4NUwzM1pqeCtVK2ZnZ0dna25qYmhVMUtNLzQvU3U1c2lwcFRIbFhrVzZFbitsRHAyNzRRM2dXUHBLcStCSjdTakNnPT0K",
+                                             "url":  "https://github.com/PaoloViero/prenotazioni-viewer-releases/releases/download/v0.1.9/Prenotazioni.Viewer_0.1.9_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-22T14:00:10Z",
-    "version":  "0.1.8",
-    "notes":  "Prenotazioni Viewer 0.1.8: l\u0027aggiornamento non riavvia piu\u0027 il computer (il programma si aggiorna e si riapre da solo) e tutte le impostazioni vengono registrate a ogni avvio, con una copia di sicurezza fuori dalla cartella del programma, cosi\u0027 restano dopo ogni aggiornamento."
+    "pub_date":  "2026-10-22T15:14:01Z",
+    "version":  "0.1.9",
+    "notes":  "Prenotazioni Viewer 0.1.9: sul tabellone del bowling si vedono solo le vere prenotazioni, cioe\u0027 quando tutte le piste sono piene: con piste libere le prime voci in lista (che avranno subito una pista) vengono saltate; le chiamate lampeggiano sempre come prima."
 }
