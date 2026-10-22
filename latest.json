@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUViszOWpEWTNJRFRXWDJjWlVnVGFOSkx5TzdjeTlZc2Z1YWJBVEpZdHFmUmc3cFpybzdqdWNoaUxIR3JoNCtES2IzWjR0bEtoYy9NYVdDSlp3QlJyaVUzUDNJdUNVQmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3Nzc5CWZpbGU6UHJlbm90YXppb25pIFZpZXdlcl8wLjEuN194NjQtc2V0dXAuZXhlCkR1TnI4MXp4ZElDWTA0M0JRd1FsMDRqR1k0akZJQlVkWEdtaFhTYlpTUzlwbnBkZk01VEJ0UnJpZ1E2cVl5WWdKYU5Vby9FZGZja1Z3dGZRRnlKQkJRPT0K",
-                                             "url":  "https://github.com/PaoloViero/prenotazioni-viewer-releases/releases/download/v0.1.7/Prenotazioni.Viewer_0.1.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUViszOWpEWTNJRGJPV085UjFFZmcyWEZ6Nzh3RUhLSTNPdWxQMExvQ2FCcWQweTg0STNhNTdWM1JicTltNzkzamxpTTVGR2lMVHdxeXJUdEJhdWhodDgzOFQ5TjE5aUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc3NDg3CWZpbGU6UHJlbm90YXppb25pIFZpZXdlcl8wLjEuOF94NjQtc2V0dXAuZXhlCmFrSGRWK00wNWRZYmRIYzZLOUZMY3dRaFBXUmJuZ29rREVlZkNvTElSZGR1Z3FTeWk2em5mM1l1Z25weWZvTncyZysyY2FtbTBuTm5PMWR5b2pabUNRPT0K",
+                                             "url":  "https://github.com/PaoloViero/prenotazioni-viewer-releases/releases/download/v0.1.8/Prenotazioni.Viewer_0.1.8_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-22T11:16:36Z",
-    "version":  "0.1.7",
-    "notes":  "Prenotazioni Viewer 0.1.7: la chiamata a tutto schermo e\u0027 sempre UNA per volta (o bowling o carambola, mai tutte e due insieme): se ne arrivano due vale la piu\u0027 recente, che prende il posto dell\u0027altra e fa ripartire il minuto; se la piu\u0027 recente viene annullata dal Control Panel non torna quella di prima."
+    "pub_date":  "2026-10-22T14:00:10Z",
+    "version":  "0.1.8",
+    "notes":  "Prenotazioni Viewer 0.1.8: l\u0027aggiornamento non riavvia piu\u0027 il computer (il programma si aggiorna e si riapre da solo) e tutte le impostazioni vengono registrate a ogni avvio, con una copia di sicurezza fuori dalla cartella del programma, cosi\u0027 restano dopo ogni aggiornamento."
 }
