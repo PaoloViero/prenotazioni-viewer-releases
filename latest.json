@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUViszOWpEWTNJRFdHSmRZNnNPdm56clF1Z3FZVVo0bXQ2WHpNOXJtMU0yYTdhaWR2MVIzbjdndVpRazZlcTdEOVBuYk9zQ3BkYjZTV2czNVFTUTZYaWNEYzlCY21TSWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY1MzUxCWZpbGU6UHJlbm90YXppb25pIFZpZXdlcl8wLjEuNV94NjQtc2V0dXAuZXhlCkNoTXlHbGpTc1FCU1RzTzlPTGVxU3ptb1ZaLzVsYnlYMFJsRlQ3ZmpYNkR2SWd6Tzh3R3dXUERncXZKaVRUc1F6VmdITXROWnBpbklNMHJJUmpBVERBPT0K",
-                                             "url":  "https://github.com/PaoloViero/prenotazioni-viewer-releases/releases/download/v0.1.5/Prenotazioni.Viewer_0.1.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUViszOWpEWTNJRFh1dGFTVkg1UHExQWJsR0hhMmt0R3pmakF0R04vNHNHWExuM29kazZJVW5MWHltZkk4Ym05dVdvRVhNcUlLaTBWdlVjeGVOYk41NDJzem14OHRIcWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3MjQxCWZpbGU6UHJlbm90YXppb25pIFZpZXdlcl8wLjEuNl94NjQtc2V0dXAuZXhlClNHMzRQT284akpzSG15MytFb25Dc3c1WXEyNGNxZGhBei9RM01kSitCVnlrL3JSWEtpbGpxcmdqaDlkbkltL1B0Z2Y0TW5FLzFRZnJmem1XWFQxYURBPT0K",
+                                             "url":  "https://github.com/PaoloViero/prenotazioni-viewer-releases/releases/download/v0.1.6/Prenotazioni.Viewer_0.1.6_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-22T10:36:31Z",
-    "version":  "0.1.5",
-    "notes":  "Prenotazioni Viewer 0.1.5: chiamata a tutto schermo per un minuto da «Lancia chiamata» del Control Panel, tabellone con due colonne (Bowling, Giochi a tempo/carambole) e numero progressivo vero, filmati dalla cache del PC, porta COM per il lampeggiante (F10), aggiornamenti automatici."
+    "pub_date":  "2026-10-22T11:07:44Z",
+    "version":  "0.1.6",
+    "notes":  "Prenotazioni Viewer 0.1.6: sulla chiamata a tutto schermo compare a destra il personaggio del gioco (ragazzo con la palla per il bowling, ragazza con la stecca per le carambole); la chiamata si adatta a qualsiasi forma di schermo (orizzontale, quadrato, verticale); opzioni di prova da riga di comando."
 }
