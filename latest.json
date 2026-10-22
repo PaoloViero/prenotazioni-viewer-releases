@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUViszOWpEWTNJRFh1dGFTVkg1UHExQWJsR0hhMmt0R3pmakF0R04vNHNHWExuM29kazZJVW5MWHltZkk4Ym05dVdvRVhNcUlLaTBWdlVjeGVOYk41NDJzem14OHRIcWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3MjQxCWZpbGU6UHJlbm90YXppb25pIFZpZXdlcl8wLjEuNl94NjQtc2V0dXAuZXhlClNHMzRQT284akpzSG15MytFb25Dc3c1WXEyNGNxZGhBei9RM01kSitCVnlrL3JSWEtpbGpxcmdqaDlkbkltL1B0Z2Y0TW5FLzFRZnJmem1XWFQxYURBPT0K",
-                                             "url":  "https://github.com/PaoloViero/prenotazioni-viewer-releases/releases/download/v0.1.6/Prenotazioni.Viewer_0.1.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUViszOWpEWTNJRFRXWDJjWlVnVGFOSkx5TzdjeTlZc2Z1YWJBVEpZdHFmUmc3cFpybzdqdWNoaUxIR3JoNCtES2IzWjR0bEtoYy9NYVdDSlp3QlJyaVUzUDNJdUNVQmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3Nzc5CWZpbGU6UHJlbm90YXppb25pIFZpZXdlcl8wLjEuN194NjQtc2V0dXAuZXhlCkR1TnI4MXp4ZElDWTA0M0JRd1FsMDRqR1k0akZJQlVkWEdtaFhTYlpTUzlwbnBkZk01VEJ0UnJpZ1E2cVl5WWdKYU5Vby9FZGZja1Z3dGZRRnlKQkJRPT0K",
+                                             "url":  "https://github.com/PaoloViero/prenotazioni-viewer-releases/releases/download/v0.1.7/Prenotazioni.Viewer_0.1.7_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-22T11:07:44Z",
-    "version":  "0.1.6",
-    "notes":  "Prenotazioni Viewer 0.1.6: sulla chiamata a tutto schermo compare a destra il personaggio del gioco (ragazzo con la palla per il bowling, ragazza con la stecca per le carambole); la chiamata si adatta a qualsiasi forma di schermo (orizzontale, quadrato, verticale); opzioni di prova da riga di comando."
+    "pub_date":  "2026-10-22T11:16:36Z",
+    "version":  "0.1.7",
+    "notes":  "Prenotazioni Viewer 0.1.7: la chiamata a tutto schermo e\u0027 sempre UNA per volta (o bowling o carambola, mai tutte e due insieme): se ne arrivano due vale la piu\u0027 recente, che prende il posto dell\u0027altra e fa ripartire il minuto; se la piu\u0027 recente viene annullata dal Control Panel non torna quella di prima."
 }
