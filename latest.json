@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUViszOWpEWTNJRGI2N0pvbU9zMzBhakJLdU1mVFFiVk5UNGNieWE0VENhRE0wRERwNXV2VG93b3Y4czVldE1CalZpZlFWVlZmMlJmYWVBTlJSaEIzdVEvYkZLN0pWQ2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgxOTg4CWZpbGU6UHJlbm90YXppb25pIFZpZXdlcl8wLjEuOV94NjQtc2V0dXAuZXhlCjhOMzJyakxuWkNpTHdxbm5vcFd4NUwzM1pqeCtVK2ZnZ0dna25qYmhVMUtNLzQvU3U1c2lwcFRIbFhrVzZFbitsRHAyNzRRM2dXUHBLcStCSjdTakNnPT0K",
-                                             "url":  "https://github.com/PaoloViero/prenotazioni-viewer-releases/releases/download/v0.1.9/Prenotazioni.Viewer_0.1.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUViszOWpEWTNJRGNwRWpxTCsxdUFzT3YxZmo3M0doTlFvSDlERlBrV09Mc1Q3SDBBZnU4VmlFS0p1YzhadDFYNUE5SzB3ZmZBbEdrUVpUOXBVR2EzNktCUmdQMDRJUEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc2MDQ2CWZpbGU6UHJlbm90YXppb25pIFZpZXdlcl8wLjEuMTBfeDY0LXNldHVwLmV4ZQp4ZmdzZEcwU0hieXpqajdScUs1VDdLMy9GbW5wNjZqdjlrMk5QV2w5bDNzV2YrYTZNbHhpaSt0Y2FFL0tLcWhEamVMZ3E5SFVZNDRjc0dzcGxLUWpBUT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/prenotazioni-viewer-releases/releases/download/v0.1.10/Prenotazioni.Viewer_0.1.10_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-22T15:14:01Z",
-    "version":  "0.1.9",
-    "notes":  "Prenotazioni Viewer 0.1.9: sul tabellone del bowling si vedono solo le vere prenotazioni, cioe\u0027 quando tutte le piste sono piene: con piste libere le prime voci in lista (che avranno subito una pista) vengono saltate; le chiamate lampeggiano sempre come prima."
+    "pub_date":  "2026-10-23T17:21:27Z",
+    "version":  "0.1.10",
+    "notes":  "Prenotazioni Viewer 0.1.10: si spegne dal Control Panel di Strike Order (F10, Altri terminali: monitor prenotazioni M1, M2..., riconosciuto dal nome del PC)."
 }
